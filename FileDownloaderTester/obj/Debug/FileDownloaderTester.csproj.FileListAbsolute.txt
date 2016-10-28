@@ -1,0 +1,9 @@
+C:\Users\production\Downloads\HttpFileDownloadUI_demo\FileDownloaderTester\obj\Debug\FileDownloaderTester.MainClass.resources
+C:\Users\production\Downloads\HttpFileDownloadUI_demo\FileDownloaderTester\obj\Debug\FileDownloaderTester.csproj.GenerateResource.Cache
+C:\Users\production\Downloads\HttpFileDownloadUI_demo\FileDownloaderTester\bin\Debug\FileDownloaderTester.exe
+C:\Users\production\Downloads\HttpFileDownloadUI_demo\FileDownloaderTester\bin\Debug\FileDownloaderTester.pdb
+C:\Users\production\Downloads\HttpFileDownloadUI_demo\FileDownloaderTester\bin\Debug\FileDownloader.dll
+C:\Users\production\Downloads\HttpFileDownloadUI_demo\FileDownloaderTester\bin\Debug\FileDownloader.pdb
+C:\Users\production\Downloads\HttpFileDownloadUI_demo\FileDownloaderTester\obj\Debug\FileDownloaderTester.csprojResolveAssemblyReference.cache
+C:\Users\production\Downloads\HttpFileDownloadUI_demo\FileDownloaderTester\obj\Debug\FileDownloaderTester.exe
+C:\Users\production\Downloads\HttpFileDownloadUI_demo\FileDownloaderTester\obj\Debug\FileDownloaderTester.pdb
