@@ -1,8 +1,0 @@
-C:\Users\production\Downloads\HttpFileDownloadUI_demo\FileDownloader\bin\Debug\FileDownloader.dll
-C:\Users\production\Downloads\HttpFileDownloadUI_demo\FileDownloader\bin\Debug\FileDownloader.pdb
-C:\Users\production\Downloads\HttpFileDownloadUI_demo\FileDownloader\obj\Debug\EPS.Libraries.ClientLibrary.HttpUtils.FileDownloaderForm.resources
-C:\Users\production\Downloads\HttpFileDownloadUI_demo\FileDownloader\obj\Debug\FileDownloader.csproj.GenerateResource.Cache
-C:\Users\production\Downloads\HttpFileDownloadUI_demo\FileDownloader\obj\Debug\FileDownloader.dll
-C:\Users\production\Downloads\HttpFileDownloadUI_demo\FileDownloader\obj\Debug\FileDownloader.pdb
-C:\Users\production\Downloads\HttpFileDownloadUI_demo\FileDownloader\bin\Debug\FileDownloader.dll.config
-C:\Users\production\Downloads\HttpFileDownloadUI_demo\FileDownloader\obj\Debug\FileDownloader.csprojResolveAssemblyReference.cache
