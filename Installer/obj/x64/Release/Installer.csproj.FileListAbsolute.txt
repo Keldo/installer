@@ -1,0 +1,11 @@
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Installer\Installer\bin\x64\Release\Installer.exe.config
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Installer\Installer\bin\x64\Release\Installer.exe
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Installer\Installer\bin\x64\Release\Installer.pdb
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Installer\Installer\obj\x64\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Installer\Installer\obj\x64\Release\Installer.csproj.ResolveComReference.cache
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Installer\Installer\obj\x64\Release\Installer.frmInstall.resources
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Installer\Installer\obj\x64\Release\Installer.Properties.Resources.resources
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Installer\Installer\obj\x64\Release\Installer.csproj.GenerateResource.Cache
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Installer\Installer\obj\x64\Release\Installer.exe
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Installer\Installer\obj\x64\Release\Installer.pdb
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Installer\Installer\obj\x64\Release\Installer.csprojResolveAssemblyReference.cache

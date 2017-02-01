@@ -1,0 +1,3 @@
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Installer\Installer\bin\Release\Installer.exe.config
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Installer\Installer\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\Installer\Installer\obj\Release\Installer.csproj.ResolveComReference.cache
