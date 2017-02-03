@@ -70,17 +70,7 @@ namespace Installer
                 Thread.Sleep(200);
             }
             string installURL = "http://www.trinitywow.org/game/install/legion/";
-
-                Directory.CreateDirectory(folderBrowserDialog1.SelectedPath + "\\WTF");
-                new WebClient().DownloadFile(installURL + "connection_patcher.exe", folderBrowserDialog1.SelectedPath + "\\connection_patcher.exe");
-                new WebClient().DownloadFile(installURL + "common.dll", folderBrowserDialog1.SelectedPath + "\\common.dll");
-                new WebClient().DownloadFile(installURL + "libeay32.dll", folderBrowserDialog1.SelectedPath + "\\libeay32.dll");
-                new WebClient().DownloadFile(installURL + "libmysql.dll", folderBrowserDialog1.SelectedPath + "\\libmysql.dll");
-                new WebClient().DownloadFile(installURL + "libssl32.dll", folderBrowserDialog1.SelectedPath + "\\libssl32.dll");
-                new WebClient().DownloadFile(installURL + "ssleay32.dll", folderBrowserDialog1.SelectedPath + "\\ssleay32.dll");
-                new WebClient().DownloadFile(installURL + "Wow.exe", folderBrowserDialog1.SelectedPath + "\\Wow.exe");
                 new WebClient().DownloadFile(installURL + "Launcher.exe", folderBrowserDialog1.SelectedPath + "\\Launcher.exe");
-                new WebClient().DownloadFile(installURL + "WTF/Config.wtf", folderBrowserDialog1.SelectedPath + "\\WTF\\Config.wtf");
 
             // Add the desktop ShortCut
             CreateShortcut("Trinity WoW", Environment.GetFolderPath(Environment.SpecialFolder.Desktop), folderBrowserDialog1.SelectedPath);
@@ -103,26 +93,23 @@ namespace Installer
 
         private void btnContinue_Click(object sender, EventArgs e)
         {
-            if (!System.IO.File.Exists(folderBrowserDialog1.SelectedPath + "\\WoW.mfil"))
+            if (!System.IO.File.Exists(folderBrowserDialog1.SelectedPath + "\\Launcher.exe"))
             {
-                this.installWoW();
-            }
-            if (!System.IO.File.Exists(folderBrowserDialog1.SelectedPath + "\\Wow_Patched.exe"))
-            {
-                Process.Start(folderBrowserDialog1.SelectedPath + "\\connection_patcher.exe", folderBrowserDialog1.SelectedPath + "\\Wow.exe");
+                Process.Start(folderBrowserDialog1.SelectedPath + "\\Launcher.exe");
             }
             else
             {
                 btnContinue.Visible = false;
                 btnExit.Visible = true;
-                lblMain.Text = "Thank you for joining the Twisted Trinity Family, Enjoy!\nPlease create an account if you have not already done so,";
+                btnExit.Text = "Exit";
+                lblMain.Text = "Thank you for joining the Trinity WoW Family, Enjoy!\nPlease create an account if you have not already done so,";
             }
         }
 
         // Install WoW
         private void installWoW()
         {
-            Process.Start(folderBrowserDialog1.SelectedPath + "\\Wow.exe");
+            Process.Start(folderBrowserDialog1.SelectedPath + "\\Launcher.exe");
             this.Close();
         }
 

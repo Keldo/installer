@@ -9,3 +9,8 @@ C:\Users\Scott\Documents\Visual Studio 2015\Projects\Installer\Installer\obj\Deb
 C:\Users\Scott\Documents\Visual Studio 2015\Projects\Installer\Installer\obj\Debug\Installer.pdb
 C:\Users\Scott\Documents\Visual Studio 2015\Projects\Installer\Installer\obj\Debug\Interop.IWshRuntimeLibrary.dll
 C:\Users\Scott\Documents\Visual Studio 2015\Projects\Installer\Installer\obj\Debug\Installer.csproj.ResolveComReference.cache
+D:\Projects\installer\Installer\bin\Debug\Installer.exe.config
+D:\Projects\installer\Installer\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Projects\installer\Installer\obj\Debug\Installer.csproj.ResolveComReference.cache
+D:\Projects\installer\Installer\obj\Debug\Installer.exe
+D:\Projects\installer\Installer\obj\Debug\Installer.pdb
